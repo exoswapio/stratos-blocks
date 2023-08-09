@@ -1,0 +1,8 @@
+{
+  "mesos": {
+    "WETH9": {
+      "address": "0x42F3F703c0a15A4Ad920cfDB4B87265458CB4325",
+      "startBlock": 1
+    }
+  }
+}
